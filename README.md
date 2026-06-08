@@ -24,13 +24,19 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">* 🎓 Pursuing a B.Tech in Computer Science<br><br>* 🔭 Always working on something (even if it's 60% broken)<br><br>* 💡 I believe the best way to learn is to build<br><br>* 🐛 Fun fact: I debug with print() and I'm not ashamed</p>
 
 ###
 
+<br clear="both">
+
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmV2aXFkaThpZ2NzcTNwYmRzaHBiaHViczdrZXRldHB4dHZnc2hkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/125WpRCaOAzTlgXyKL/giphy.gif"  />
 
 ###
+
+<br clear="both">
 
 <h2 align="left">Skills</h2>
 
